@@ -1,6 +1,5 @@
 # Import libraries
 import matplotlib.pyplot as plt
-import numpy as np; np.random.seed(0)
 import seaborn as sns; sns.set_theme()
 import pandas as pd
 
